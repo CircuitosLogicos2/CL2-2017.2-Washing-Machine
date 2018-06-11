@@ -1,0 +1,6 @@
+
+State Machine - |washing_machine|modo
+Name modo.modo_espera modo.limpeza_rapida modo.limpeza_padrao 
+modo.modo_espera 0 0 0 
+modo.limpeza_padrao 1 0 1 
+modo.limpeza_rapida 1 1 0 
